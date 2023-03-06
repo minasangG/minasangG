@@ -5,27 +5,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minasangG&theme=react&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minasangG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 - 👋 Hi, I’m @minasangG
 - 👀 I’m interested in building software and learning code, plus dogs and cats!
 - 🌱 I’m currently learning Java for back-end development
 - 💞️ I’m looking to collaborate on other programmers as well.
-
----
-
-<p align="center">You can reach me out on:</p>
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/clarkwilliamcabaron/">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/minasangG">
-  <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="https://twitter.com/nyarkieeee">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-</div>
 
 ---
 <div align="center">
@@ -45,4 +28,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />&nbsp;
+</div>
+
+---
+
+<p align="center">You can reach me out on:</p>
+
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/clarkwilliamcabaron/">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/minasangG">
+  <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://twitter.com/nyarkieeee">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C142%20hrs%2038%20mins-blue)![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue)
 </div>
