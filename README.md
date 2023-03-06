@@ -1,23 +1,27 @@
 <div class="header">
+	
 	<p align="left">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI3N2ZjNDQ4ODcxYTk1MmI2YjVlNmNkYzA4NWNkZDA4ZWFmODA0NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 	</p>
+
 	<a href="https://git.io/streak-stats">
 	<p align="center">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=minasangG&theme=react&hide_border=true" align="center" alt="github streak">
-	</p>
-</a>
+	</p></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+	
 	<p align="center">
+		<a href="https://github.com/anuraghazra/github-readme-stats">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minasangG&layout=compact&theme=vision-friendly-dark" alt="top languages">
 	</p>
 </a>
+	
 </div>
-
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minasangG&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 
 
 ---
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/Junmarkchi97/Junmarkchi97/main/wave.gif" width="40px" height="40px" /></h1>
 
 - 👋 Hi, I’m @minasangG
 - 👀 I’m interested in building software and learning code, plus dogs and cats!
