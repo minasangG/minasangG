@@ -1,32 +1,19 @@
 <div class="header">
 	
-	<p align="left">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI3N2ZjNDQ4ODcxYTk1MmI2YjVlNmNkYzA4NWNkZDA4ZWFmODA0NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-	</p>
-
-	<a href="https://git.io/streak-stats">
-	<p align="center">
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=minasangG&theme=react&hide_border=true" align="center" alt="github streak">
-	</p></a>
-
-	
-	<p align="center">
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minasangG&layout=compact&theme=vision-friendly-dark" alt="top languages">
-	</p>
-</a>
-	
+<p align="center" height="50px" width="50px">
+    	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI3N2ZjNDQ4ODcxYTk1MmI2YjVlNmNkYzA4NWNkZDA4ZWFmODA0NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+	     width=50%>
+</p>
 </div>
+<!--
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minasangG&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
-
-
----
+-->
+&nbsp;
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/Junmarkchi97/Junmarkchi97/main/wave.gif" width="40px" height="40px" /></h1>
-
-- 👋 Hi, I’m @minasangG
-- 👀 I’m interested in building software and learning code, plus dogs and cats!
-- 🌱 I’m currently learning Java for back-end development
-- 💞️ I’m looking to collaborate on other programmers as well.
+<p>👋 Hi, I’m @minasangG </p>
+<p> 👀 I’m interested in building software and learning code, plus dogs and cats!</p>
+<p> 🌱 I’m currently learning Java for back-end development</p>
+<p> 💞️ I’m looking to collaborate on other programmers as well.</p>
 
 ---
 <div align="center">
@@ -48,6 +35,22 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />&nbsp;
 </div>
 
+<br>
+
+---
+
+<p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minasangG&layout=compact&theme=vision-friendly-dark" alt="top languages">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://git.io/streak-stats">
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=minasangG&theme=react&hide_border=true" align="center" alt="github streak">
+	</a>
+</p>
+
 ---
 
 <p align="center"><b>📣You can reach me out on: </b></p>
@@ -62,6 +65,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
+
 
 ---
 
